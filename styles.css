@@ -1,0 +1,1273 @@
+@import url('https://fonts.googleapis.com/css?family=Montserrat:600,400,500');
+
+
+.bp1-home {
+  width               : 100%;
+  min-width           : 320px;
+  height              : 100vh;
+  min-height          : 1024px;
+  position            : relative;
+  overflow            : hidden;
+  margin              : 0px;
+  -webkit-font-smoothing: antialiased;
+  -moz-osx-font-smoothing: grayscale;
+  background-color    : rgba(255, 255, 255, 1.0);
+}
+a {
+  text-decoration     : none;
+}
+div {
+  -webkit-text-size-adjust: none;
+}
+.anima-full-width-a {
+  width               : 100%;
+}
+.anima-full-height-a {
+  height              : 100%;
+}
+div {
+  -webkit-text-size-adjust: none;
+}
+.bp1-home .bp1-navigation {
+  background-color    : rgba(255,255,255,0.0);
+  top                 : 100px;
+  height              : 32px;
+  width               : 321px;
+  position            : absolute;
+  margin              : 0;
+  left                : 0px;
+  -ms-transform       : rotate(0deg); /* IE 9 */
+  -webkit-transform   : rotate(0deg); /* Chrome, Safari, Opera */
+  transform           : rotate(0deg);
+}
+.bp1-home .bp1-navigation .bp1-rectangle {
+  background-color    : rgba(204, 228, 230, 1.0);
+  top                 : 0px;
+  height              : 100%;
+  width               : 100%;
+  position            : absolute;
+  margin              : 0;
+  left                : 0px;
+  -ms-transform       : rotate(0deg); /* IE 9 */
+  -webkit-transform   : rotate(0deg); /* Chrome, Safari, Opera */
+  transform           : rotate(0deg);
+}
+.bp1-home .bp1-navigation .bp1-navigationmenu24px {
+  background-color    : rgba(255,255,255,0.0);
+  right               : 0.31%;
+  top                 : 0px;
+  height              : 100%;
+  width               : 12.46%;
+  position            : absolute;
+  margin              : 0;
+  -ms-transform       : rotate(0deg); /* IE 9 */
+  -webkit-transform   : rotate(0deg); /* Chrome, Safari, Opera */
+  transform           : rotate(0deg);
+}
+.bp1-home .bp1-navigation .bp1-navigationmenu24px .bp1-rectangle1 {
+  background-color    : rgba(255,255,255,0.0);
+  top                 : 0px;
+  height              : 100%;
+  width               : 100%;
+  position            : absolute;
+  margin              : 0;
+  left                : 0px;
+  -ms-transform       : rotate(0deg); /* IE 9 */
+  -webkit-transform   : rotate(0deg); /* Chrome, Safari, Opera */
+  transform           : rotate(0deg);
+}
+.bp1-home .bp1-navigation .bp1-navigationmenu24px .bp1-navigationmenu24px1 {
+  background-color    : rgba(255,255,255,0.0);
+  top                 : 31.25%;
+  height              : 37.50%;
+  width               : 45.00%;
+  position            : absolute;
+  margin              : 0;
+  left                : 27.50%;
+  -ms-transform       : rotate(0deg); /* IE 9 */
+  -webkit-transform   : rotate(0deg); /* Chrome, Safari, Opera */
+  transform           : rotate(0deg);
+}
+.bp1-home .bp1-navigation .bp1-navigationmenu24px .bp1-navigationmenu24px1 .bp1-navigationmenu24px2 {
+  background-color    : rgba(255,255,255,0.0);
+  top                 : 0px;
+  height              : 100%;
+  width               : 100%;
+  position            : absolute;
+  margin              : 0;
+  left                : 0px;
+  -ms-transform       : rotate(0deg); /* IE 9 */
+  -webkit-transform   : rotate(0deg); /* Chrome, Safari, Opera */
+  transform           : rotate(0deg);
+}
+.bp1-home .bp1-bannerwlogo {
+  background-color    : rgba(255,255,255,0.0);
+  top                 : 9px;
+  height              : 83px;
+  width               : 270px;
+  position            : absolute;
+  margin              : 0;
+  left                : 5px;
+  -ms-transform       : rotate(0deg); /* IE 9 */
+  -webkit-transform   : rotate(0deg); /* Chrome, Safari, Opera */
+  transform           : rotate(0deg);
+}
+.bp1-home .bp1-bannerwlogo .bp1-fmpdotcomsavoye {
+  background-color    : rgba(255,255,255,0.0);
+  top                 : 0.60%;
+  height              : 98.80%;
+  width               : 100%;
+  position            : absolute;
+  margin              : 0;
+  left                : 0px;
+  -ms-transform       : rotate(0deg); /* IE 9 */
+  -webkit-transform   : rotate(0deg); /* Chrome, Safari, Opera */
+  transform           : rotate(0deg);
+}
+.bp1-home .bp1-dog01 {
+  background-color    : rgba(255,255,255,0.0);
+  top                 : 132px;
+  height              : 213px;
+  width               : 320px;
+  position            : absolute;
+  margin              : 0;
+  left                : 0px;
+  -ms-transform       : rotate(0deg); /* IE 9 */
+  -webkit-transform   : rotate(0deg); /* Chrome, Safari, Opera */
+  transform           : rotate(0deg);
+}
+.bp1-home .bp1-rectangle2 {
+  background-color    : rgba(255,255,255,0.0);
+  top                 : 254px;
+  height              : 286px;
+  width               : 321px;
+  position            : absolute;
+  margin              : 0;
+  left                : 0px;
+  -ms-transform       : rotate(0deg); /* IE 9 */
+  -webkit-transform   : rotate(0deg); /* Chrome, Safari, Opera */
+  transform           : rotate(0deg);
+}
+.bp1-home .bp1-transparentbutton {
+  background-color    : rgba(255,255,255,0.0);
+  top                 : 472px;
+  height              : 40px;
+  width               : 120px;
+  position            : absolute;
+  margin              : 0;
+  left                : 100px;
+  -ms-transform       : rotate(0deg); /* IE 9 */
+  -webkit-transform   : rotate(0deg); /* Chrome, Safari, Opera */
+  transform           : rotate(0deg);
+}
+.bp1-home .bp1-transparentbutton .bp1-group {
+  background-color    : rgba(255,255,255,0.0);
+  top                 : 0px;
+  height              : 100%;
+  width               : 100%;
+  position            : relative;
+  margin              : 0;
+  left                : 0px;
+  -ms-transform       : rotate(0deg); /* IE 9 */
+  -webkit-transform   : rotate(0deg); /* Chrome, Safari, Opera */
+  transform           : rotate(0deg);
+}
+.bp1-home .bp1-transparentbutton .bp1-group .bp1-learnmore {
+  background-color    : rgba(255,255,255,0.0);
+  top                 : 0px;
+  height              : 100%;
+  width               : 100%;
+  position            : absolute;
+  margin              : 0;
+  left                : 0px;
+  -ms-transform       : rotate(0deg); /* IE 9 */
+  -webkit-transform   : rotate(0deg); /* Chrome, Safari, Opera */
+  transform           : rotate(0deg);
+}
+.bp1-home .bp1-transparentbutton .bp1-group .bp1-default {
+  background-color    : rgba(255,255,255,0.0);
+  top                 : calc(50.00% - 9px);
+  height              : 18px;
+  width               : 68.33%;
+  position            : absolute;
+  margin              : 0;
+  left                : 15.00%;
+  -ms-transform       : rotate(0deg); /* IE 9 */
+  -webkit-transform   : rotate(0deg); /* Chrome, Safari, Opera */
+  transform           : rotate(0deg);
+  font-family         : "Montserrat", Helvetica, Arial, serif;
+  font-weight         : 600;
+  font-style          : normal;
+  font-size           : 14.0px;
+  color               : rgba(215, 215, 215, 1.0);
+  text-align          : center;
+  line-height         : 18.0px;
+}
+.bp1-home .bp1-titles {
+  background-color    : rgba(255,255,255,0.0);
+  top                 : 329px;
+  height              : 133px;
+  width               : 289px;
+  position            : absolute;
+  margin              : 0;
+  left                : 16px;
+  -ms-transform       : rotate(0deg); /* IE 9 */
+  -webkit-transform   : rotate(0deg); /* Chrome, Safari, Opera */
+  transform           : rotate(0deg);
+}
+.bp1-home .bp1-titles .bp1-h4 {
+  background-color    : rgba(255,255,255,0.0);
+  bottom              : 0px;
+  height              : 42.86%;
+  width               : 100%;
+  position            : absolute;
+  margin              : 0;
+  left                : 0px;
+  -ms-transform       : rotate(0deg); /* IE 9 */
+  -webkit-transform   : rotate(0deg); /* Chrome, Safari, Opera */
+  transform           : rotate(0deg);
+}
+.bp1-home .bp1-titles .bp1-h4 .bp1-keepingourpetsclo {
+  background-color    : rgba(255,255,255,0.0);
+  top                 : 0px;
+  height              : 100%;
+  width               : 100%;
+  position            : absolute;
+  margin              : 0;
+  left                : 0px;
+  -ms-transform       : rotate(0deg); /* IE 9 */
+  -webkit-transform   : rotate(0deg); /* Chrome, Safari, Opera */
+  transform           : rotate(0deg);
+  font-family         : "Montserrat", Helvetica, Arial, serif;
+  font-weight         : 400;
+  font-style          : normal;
+  font-size           : 21.0px;
+  color               : rgba(130, 130, 130, 1.0);
+  text-align          : center;
+  line-height         : 25.0px;
+}
+.bp1-home .bp1-titles .bp1-h2 {
+  background-color    : rgba(255,255,255,0.0);
+  top                 : 0px;
+  height              : 50.38%;
+  width               : 100%;
+  position            : absolute;
+  margin              : 0;
+  left                : 0px;
+  -ms-transform       : rotate(0deg); /* IE 9 */
+  -webkit-transform   : rotate(0deg); /* Chrome, Safari, Opera */
+  transform           : rotate(0deg);
+}
+.bp1-home .bp1-titles .bp1-h2 .bp1-freeonlinepetmemo {
+  background-color    : rgba(255,255,255,0.0);
+  top                 : 0px;
+  height              : 100%;
+  width               : 100%;
+  position            : absolute;
+  margin              : 0;
+  left                : 0px;
+  -ms-transform       : rotate(0deg); /* IE 9 */
+  -webkit-transform   : rotate(0deg); /* Chrome, Safari, Opera */
+  transform           : rotate(0deg);
+  font-family         : "Montserrat", Helvetica, Arial, serif;
+  font-weight         : 500;
+  font-style          : normal;
+  font-size           : 26.0px;
+  color               : rgba(236, 243, 244, 1.0);
+  text-align          : center;
+  line-height         : 32.0px;
+}
+.bp1-home .bp1-rectangle3 {
+  background-color    : rgba(7, 26, 30, 1.0);
+  top                 : 540px;
+  height              : 484px;
+  width               : 321px;
+  position            : absolute;
+  margin              : 0;
+  left                : 0px;
+  -ms-transform       : rotate(0deg); /* IE 9 */
+  -webkit-transform   : rotate(0deg); /* Chrome, Safari, Opera */
+  transform           : rotate(0deg);
+}
+.bp1-home .bp1-buttons {
+  background-color    : rgba(255,255,255,0.0);
+  top                 : 540px;
+  height              : 40px;
+  width               : 220px;
+  position            : absolute;
+  margin              : 0;
+  left                : 50px;
+  -ms-transform       : rotate(0deg); /* IE 9 */
+  -webkit-transform   : rotate(0deg); /* Chrome, Safari, Opera */
+  transform           : rotate(0deg);
+}
+.bp1-home .bp1-buttons .bp1-creatememorial {
+  background-color    : rgba(255,255,255,0.0);
+  top                 : 0px;
+  height              : 100%;
+  width               : 100%;
+  position            : relative;
+  margin              : 0;
+  left                : 0px;
+  overflow            : hidden;
+  -ms-transform       : rotate(0deg); /* IE 9 */
+  -webkit-transform   : rotate(0deg); /* Chrome, Safari, Opera */
+  transform           : rotate(0deg);
+}
+.bp1-home .bp1-buttons .bp1-creatememorial .bp1-background {
+  background-color    : rgba(255,255,255,0.0);
+  top                 : 0px;
+  height              : 100%;
+  width               : 100%;
+  position            : absolute;
+  margin              : 0;
+  left                : 0px;
+  -ms-transform       : rotate(0deg); /* IE 9 */
+  -webkit-transform   : rotate(0deg); /* Chrome, Safari, Opera */
+  transform           : rotate(0deg);
+}
+.bp1-home .bp1-buttons .bp1-creatememorial .bp1-creatememorial1 {
+  background-color    : rgba(255,255,255,0.0);
+  top                 : 0px;
+  height              : 100%;
+  width               : 100%;
+  position            : absolute;
+  margin              : 0;
+  left                : 0px;
+  -ms-transform       : rotate(0deg); /* IE 9 */
+  -webkit-transform   : rotate(0deg); /* Chrome, Safari, Opera */
+  transform           : rotate(0deg);
+}
+.bp1-home .bp1-buttons .bp1-creatememorial .bp1-creatememorial1 .bp1-bg {
+  background-color    : rgba(68, 120, 165, 1.0);
+  top                 : 0px;
+  height              : 100%;
+  box-sizing          : border-box;
+  width               : 100%;
+  position            : absolute;
+  margin              : 0;
+  left                : 0px;
+  border-radius       : 6px;
+  border-style        : solid;
+  border-width        : 1px;
+  border-color        : rgba(28, 97, 139, 1.0);
+  -ms-transform       : rotate(0deg); /* IE 9 */
+  -webkit-transform   : rotate(0deg); /* Chrome, Safari, Opera */
+  transform           : rotate(0deg);
+}
+.bp1-home .bp1-buttons .bp1-creatememorial .bp1-creatememorial1 .bp1-a12121212 {
+  background-color    : rgba(255,255,255,0.0);
+  right               : 14.09%;
+  bottom              : 15.00%;
+  height              : 21px;
+  width               : 70.91%;
+  position            : absolute;
+  margin              : 0;
+  -ms-transform       : rotate(0deg); /* IE 9 */
+  -webkit-transform   : rotate(0deg); /* Chrome, Safari, Opera */
+  transform           : rotate(0deg);
+  font-family         : "Montserrat", Helvetica, Arial, serif;
+  font-weight         : 500;
+  font-style          : normal;
+  font-size           : 14.0px;
+  color               : rgba(235, 234, 234, 1.0);
+  text-align          : center;
+  line-height         : 21.0px;
+}
+.bp1-home .bp1-login {
+  background-color    : rgba(255,255,255,0.0);
+  top                 : 598px;
+  height              : 40px;
+  width               : 90px;
+  position            : absolute;
+  margin              : 0;
+  left                : 50px;
+  overflow            : hidden;
+  -ms-transform       : rotate(0deg); /* IE 9 */
+  -webkit-transform   : rotate(0deg); /* Chrome, Safari, Opera */
+  transform           : rotate(0deg);
+}
+.bp1-home .bp1-login .bp1-background {
+  background-color    : rgba(255,255,255,0.0);
+  top                 : 0px;
+  height              : 100%;
+  width               : 100%;
+  position            : absolute;
+  margin              : 0;
+  left                : 0px;
+  -ms-transform       : rotate(0deg); /* IE 9 */
+  -webkit-transform   : rotate(0deg); /* Chrome, Safari, Opera */
+  transform           : rotate(0deg);
+}
+.bp1-home .bp1-login .bp1-signin {
+  background-color    : rgba(255,255,255,0.0);
+  top                 : 0px;
+  height              : 100%;
+  width               : 100%;
+  position            : absolute;
+  margin              : 0;
+  left                : 0px;
+  -ms-transform       : rotate(0deg); /* IE 9 */
+  -webkit-transform   : rotate(0deg); /* Chrome, Safari, Opera */
+  transform           : rotate(0deg);
+}
+.bp1-home .bp1-login .bp1-signin .bp1-buttons1 {
+  background-color    : rgba(255,255,255,0.0);
+  top                 : 0px;
+  height              : 100%;
+  width               : 100%;
+  position            : relative;
+  margin              : 0;
+  left                : 0px;
+  -ms-transform       : rotate(0deg); /* IE 9 */
+  -webkit-transform   : rotate(0deg); /* Chrome, Safari, Opera */
+  transform           : rotate(0deg);
+}
+.bp1-home .bp1-login .bp1-signin .bp1-buttons1 .bp1-buttonskybluedefault {
+  background-color    : rgba(255,255,255,0.0);
+  top                 : 0px;
+  height              : 100%;
+  width               : 100%;
+  position            : relative;
+  margin              : 0;
+  left                : 0px;
+  -ms-transform       : rotate(0deg); /* IE 9 */
+  -webkit-transform   : rotate(0deg); /* Chrome, Safari, Opera */
+  transform           : rotate(0deg);
+}
+.bp1-home .bp1-login .bp1-signin .bp1-buttons1 .bp1-buttonskybluedefault .bp1-bg {
+  background-color    : rgba(68, 120, 165, 1.0);
+  top                 : 0px;
+  height              : 100%;
+  box-sizing          : border-box;
+  width               : 100%;
+  position            : absolute;
+  margin              : 0;
+  left                : 0px;
+  border-radius       : 6px;
+  border-style        : solid;
+  border-width        : 1px;
+  border-color        : rgba(28, 97, 139, 1.0);
+  -ms-transform       : rotate(0deg); /* IE 9 */
+  -webkit-transform   : rotate(0deg); /* Chrome, Safari, Opera */
+  transform           : rotate(0deg);
+}
+.bp1-home .bp1-login .bp1-signin .bp1-buttons1 .bp1-buttonskybluedefault .bp1-a12121212 {
+  background-color    : rgba(255,255,255,0.0);
+  bottom              : 15.00%;
+  height              : 21px;
+  width               : 78.89%;
+  position            : absolute;
+  margin              : 0;
+  left                : 10.56%;
+  -ms-transform       : rotate(0deg); /* IE 9 */
+  -webkit-transform   : rotate(0deg); /* Chrome, Safari, Opera */
+  transform           : rotate(0deg);
+  font-family         : "Montserrat", Helvetica, Arial, serif;
+  font-weight         : 500;
+  font-style          : normal;
+  font-size           : 14.0px;
+  color               : rgba(235, 234, 234, 1.0);
+  text-align          : center;
+  line-height         : 21.0px;
+}
+.bp1-home .bp1-login1 {
+  background-color    : rgba(255,255,255,0.0);
+  top                 : 598px;
+  height              : 40px;
+  width               : 90px;
+  position            : absolute;
+  margin              : 0;
+  left                : 180px;
+  -ms-transform       : rotate(0deg); /* IE 9 */
+  -webkit-transform   : rotate(0deg); /* Chrome, Safari, Opera */
+  transform           : rotate(0deg);
+}
+.bp1-home .bp1-login1 .bp1-login2 {
+  background-color    : rgba(255,255,255,0.0);
+  top                 : 0px;
+  height              : 100%;
+  width               : 100%;
+  position            : relative;
+  margin              : 0;
+  left                : 0px;
+  -ms-transform       : rotate(0deg); /* IE 9 */
+  -webkit-transform   : rotate(0deg); /* Chrome, Safari, Opera */
+  transform           : rotate(0deg);
+}
+.bp1-home .bp1-login1 .bp1-login2 .bp1-signin {
+  background-color    : rgba(255,255,255,0.0);
+  top                 : 0px;
+  height              : 100%;
+  width               : 100%;
+  position            : relative;
+  margin              : 0;
+  left                : 0px;
+  -ms-transform       : rotate(0deg); /* IE 9 */
+  -webkit-transform   : rotate(0deg); /* Chrome, Safari, Opera */
+  transform           : rotate(0deg);
+}
+.bp1-home .bp1-login1 .bp1-login2 .bp1-signin .bp1-buttons1 {
+  background-color    : rgba(255,255,255,0.0);
+  top                 : 0px;
+  height              : 100%;
+  width               : 100%;
+  position            : relative;
+  margin              : 0;
+  left                : 0px;
+  -ms-transform       : rotate(0deg); /* IE 9 */
+  -webkit-transform   : rotate(0deg); /* Chrome, Safari, Opera */
+  transform           : rotate(0deg);
+}
+.bp1-home .bp1-login1 .bp1-login2 .bp1-signin .bp1-buttons1 .bp1-buttonskybluedefault {
+  background-color    : rgba(255,255,255,0.0);
+  top                 : 0px;
+  height              : 100%;
+  width               : 100%;
+  position            : relative;
+  margin              : 0;
+  left                : 0px;
+  -ms-transform       : rotate(0deg); /* IE 9 */
+  -webkit-transform   : rotate(0deg); /* Chrome, Safari, Opera */
+  transform           : rotate(0deg);
+}
+.bp1-home .bp1-login1 .bp1-login2 .bp1-signin .bp1-buttons1 .bp1-buttonskybluedefault .bp1-bg {
+  background-color    : rgba(68, 120, 165, 1.0);
+  top                 : 0px;
+  height              : 100%;
+  box-sizing          : border-box;
+  width               : 100%;
+  position            : absolute;
+  margin              : 0;
+  left                : 0px;
+  border-radius       : 6px;
+  border-style        : solid;
+  border-width        : 1px;
+  border-color        : rgba(28, 97, 139, 1.0);
+  -ms-transform       : rotate(0deg); /* IE 9 */
+  -webkit-transform   : rotate(0deg); /* Chrome, Safari, Opera */
+  transform           : rotate(0deg);
+}
+.bp1-home .bp1-login1 .bp1-login2 .bp1-signin .bp1-buttons1 .bp1-buttonskybluedefault .bp1-a12121212 {
+  background-color    : rgba(255,255,255,0.0);
+  bottom              : 15.00%;
+  height              : 21px;
+  width               : 56.67%;
+  position            : absolute;
+  margin              : 0;
+  left                : 21.67%;
+  -ms-transform       : rotate(0deg); /* IE 9 */
+  -webkit-transform   : rotate(0deg); /* Chrome, Safari, Opera */
+  transform           : rotate(0deg);
+  font-family         : "Montserrat", Helvetica, Arial, serif;
+  font-weight         : 500;
+  font-style          : normal;
+  font-size           : 14.0px;
+  color               : rgba(235, 234, 234, 1.0);
+  text-align          : center;
+  line-height         : 21.0px;
+}
+/* .anima-animate-appear prefix for appear animations */
+.anima-animate-appear {
+  opacity             : 0;
+  display             : block;
+  -webkit-animation   : anima-reveal 0.3s ease-in-out 1 normal forwards;
+  -moz-animation      : anima-reveal 0.3s ease-in 1 normal forwards;
+  -o-animation        : anima-reveal 0.3s ease-in-out 1 normal forwards;
+  animation           : anima-reveal 0.3s ease-in-out 1 normal forwards;
+}
+.anima-animate-disappear {
+  opacity             : 1;
+  display             : block;
+  -webkit-animation   : anima-reveal 0.3s ease-in-out 1 reverse forwards;
+  -moz-animation      : anima-reveal 0.3s ease-in 1 normal forwards;
+  -o-animation        : anima-reveal 0.3s ease-in-out 1 reverse forwards;
+  animation           : anima-reveal 0.3s ease-in-out 1 reverse forwards;
+}
+.anima-animate-nodelay {
+  -webkit-animation-delay: 0;
+  -moz-animation-delay: 0;
+  -o-animation-delay  : 0;
+  animation-delay     : 0;
+}
+@-webkit-keyframes anima-reveal {
+  0%
+
+  {
+      opacity: 0;
+    }
+
+
+  100%
+
+  {
+      opacity: 1;
+    }
+}
+@-moz-keyframes anima-reveal {
+  0%
+
+  {
+      opacity: 0;
+    }
+
+
+  100%
+
+  {
+      opacity: 1;
+    }
+}
+@-o-keyframes anima-reveal {
+  0%
+
+  {
+      opacity: 0;
+    }
+
+
+  100%
+
+  {
+      opacity: 1;
+    }
+}
+@keyframes anima-reveal {
+  0%
+
+  {
+      opacity: 0;
+    }
+
+
+  100%
+
+  {
+      opacity: 1;
+    }
+}
+.bp2-tablet {
+  width               : 100%;
+  min-width           : 768px;
+  height              : 100vh;
+  min-height          : 1024px;
+  position            : relative;
+  overflow            : hidden;
+  margin              : 0px;
+  -webkit-font-smoothing: antialiased;
+  -moz-osx-font-smoothing: grayscale;
+  background-color    : rgba(255, 255, 255, 1.0);
+}
+div {
+  -webkit-text-size-adjust: none;
+}
+.bp2-tablet .bp2-rectangle {
+  background-color    : rgba(255, 255, 255, 1.0);
+  top                 : 0px;
+  height              : 143px;
+  width               : 767px;
+  position            : absolute;
+  margin              : 0;
+  left                : 1px;
+  -ms-transform       : rotate(0deg); /* IE 9 */
+  -webkit-transform   : rotate(0deg); /* Chrome, Safari, Opera */
+  transform           : rotate(0deg);
+}
+.bp2-tablet .bp2-rectangle1 {
+  background-color    : rgba(255, 255, 255, 1.0);
+  top                 : 0px;
+  height              : 100px;
+  width               : 321px;
+  position            : absolute;
+  margin              : 0;
+  left                : -420px;
+  -ms-transform       : rotate(0deg); /* IE 9 */
+  -webkit-transform   : rotate(0deg); /* Chrome, Safari, Opera */
+  transform           : rotate(0deg);
+}
+.bp2-tablet .bp2-bannerwlogo {
+  background-color    : rgba(255,255,255,0.0);
+  top                 : 18px;
+  height              : 99px;
+  width               : 329px;
+  position            : absolute;
+  margin              : 0;
+  left                : 20px;
+  -ms-transform       : rotate(0deg); /* IE 9 */
+  -webkit-transform   : rotate(0deg); /* Chrome, Safari, Opera */
+  transform           : rotate(0deg);
+}
+.bp2-tablet .bp2-bannerwlogo .bp2-fmpdotcomsavoye {
+  background-color    : rgba(255,255,255,0.0);
+  top                 : 0px;
+  height              : 99px;
+  width               : 329px;
+  position            : absolute;
+  margin              : 0;
+  left                : 0px;
+  -ms-transform       : rotate(0deg); /* IE 9 */
+  -webkit-transform   : rotate(0deg); /* Chrome, Safari, Opera */
+  transform           : rotate(0deg);
+}
+.bp2-tablet .bp2-dog01 {
+  background-color    : rgba(255,255,255,0.0);
+  top                 : 168px;
+  height              : 513px;
+  width               : 770px;
+  position            : absolute;
+  margin              : 0;
+  left                : 0px;
+  -ms-transform       : rotate(0deg); /* IE 9 */
+  -webkit-transform   : rotate(0deg); /* Chrome, Safari, Opera */
+  transform           : rotate(0deg);
+}
+.bp2-tablet .bp2-rectangle2 {
+  background-color    : rgba(255,255,255,0.0);
+  top                 : 523px;
+  height              : 501px;
+  width               : 768px;
+  position            : absolute;
+  margin              : 0;
+  left                : 1px;
+  -ms-transform       : rotate(0deg); /* IE 9 */
+  -webkit-transform   : rotate(0deg); /* Chrome, Safari, Opera */
+  transform           : rotate(0deg);
+}
+.bp2-tablet .bp2-buttons {
+  background-color    : rgba(255,255,255,0.0);
+  top                 : 831px;
+  height              : 40px;
+  width               : 220px;
+  position            : absolute;
+  margin              : 0;
+  left                : 276px;
+  -ms-transform       : rotate(0deg); /* IE 9 */
+  -webkit-transform   : rotate(0deg); /* Chrome, Safari, Opera */
+  transform           : rotate(0deg);
+}
+.bp2-tablet .bp2-buttons .bp2-creatememorial {
+  background-color    : rgba(255,255,255,0.0);
+  top                 : 0px;
+  height              : 40px;
+  width               : 220px;
+  position            : relative;
+  margin              : 0;
+  left                : 0px;
+  overflow            : hidden;
+  -ms-transform       : rotate(0deg); /* IE 9 */
+  -webkit-transform   : rotate(0deg); /* Chrome, Safari, Opera */
+  transform           : rotate(0deg);
+}
+.bp2-tablet .bp2-buttons .bp2-creatememorial .bp2-background {
+  background-color    : rgba(255,255,255,0.0);
+  top                 : 0px;
+  height              : 40px;
+  width               : 220px;
+  position            : absolute;
+  margin              : 0;
+  left                : 0px;
+  -ms-transform       : rotate(0deg); /* IE 9 */
+  -webkit-transform   : rotate(0deg); /* Chrome, Safari, Opera */
+  transform           : rotate(0deg);
+}
+.bp2-tablet .bp2-buttons .bp2-creatememorial .bp2-creatememorial1 {
+  background-color    : rgba(255,255,255,0.0);
+  top                 : 0px;
+  height              : 40px;
+  width               : 220px;
+  position            : absolute;
+  margin              : 0;
+  left                : 0px;
+  -ms-transform       : rotate(0deg); /* IE 9 */
+  -webkit-transform   : rotate(0deg); /* Chrome, Safari, Opera */
+  transform           : rotate(0deg);
+}
+.bp2-tablet .bp2-buttons .bp2-creatememorial .bp2-creatememorial1 .bp2-bg {
+  background-color    : rgba(68, 120, 165, 1.0);
+  top                 : 0px;
+  height              : 40px;
+  box-sizing          : border-box;
+  width               : 220px;
+  position            : absolute;
+  margin              : 0;
+  left                : 0px;
+  border-radius       : 6px;
+  border-style        : solid;
+  border-width        : 1px;
+  border-color        : rgba(28, 97, 139, 1.0);
+  -ms-transform       : rotate(0deg); /* IE 9 */
+  -webkit-transform   : rotate(0deg); /* Chrome, Safari, Opera */
+  transform           : rotate(0deg);
+}
+.bp2-tablet .bp2-buttons .bp2-creatememorial .bp2-creatememorial1 .bp2-a12121212 {
+  background-color    : rgba(255,255,255,0.0);
+  top                 : 13px;
+  height              : auto;
+  width               : auto;
+  position            : absolute;
+  margin              : 0;
+  left                : 32px;
+  -ms-transform       : rotate(0deg); /* IE 9 */
+  -webkit-transform   : rotate(0deg); /* Chrome, Safari, Opera */
+  transform           : rotate(0deg);
+  font-family         : "Montserrat", Helvetica, Arial, serif;
+  font-weight         : 500;
+  font-style          : normal;
+  font-size           : 14.0px;
+  color               : rgba(235, 234, 234, 1.0);
+  text-align          : center;
+  line-height         : 21.0px;
+}
+.bp2-tablet .bp2-login {
+  background-color    : rgba(255,255,255,0.0);
+  top                 : 889px;
+  height              : 40px;
+  width               : 90px;
+  position            : absolute;
+  margin              : 0;
+  left                : 276px;
+  overflow            : hidden;
+  -ms-transform       : rotate(0deg); /* IE 9 */
+  -webkit-transform   : rotate(0deg); /* Chrome, Safari, Opera */
+  transform           : rotate(0deg);
+}
+.bp2-tablet .bp2-login .bp2-background {
+  background-color    : rgba(255,255,255,0.0);
+  top                 : 0px;
+  height              : 40px;
+  width               : 90px;
+  position            : absolute;
+  margin              : 0;
+  left                : 0px;
+  -ms-transform       : rotate(0deg); /* IE 9 */
+  -webkit-transform   : rotate(0deg); /* Chrome, Safari, Opera */
+  transform           : rotate(0deg);
+}
+.bp2-tablet .bp2-login .bp2-signin {
+  background-color    : rgba(255,255,255,0.0);
+  top                 : 0px;
+  height              : 40px;
+  width               : 90px;
+  position            : absolute;
+  margin              : 0;
+  left                : 0px;
+  -ms-transform       : rotate(0deg); /* IE 9 */
+  -webkit-transform   : rotate(0deg); /* Chrome, Safari, Opera */
+  transform           : rotate(0deg);
+}
+.bp2-tablet .bp2-login .bp2-signin .bp2-buttons1 {
+  background-color    : rgba(255,255,255,0.0);
+  top                 : 0px;
+  height              : 40px;
+  width               : 90px;
+  position            : relative;
+  margin              : 0;
+  left                : 0px;
+  -ms-transform       : rotate(0deg); /* IE 9 */
+  -webkit-transform   : rotate(0deg); /* Chrome, Safari, Opera */
+  transform           : rotate(0deg);
+}
+.bp2-tablet .bp2-login .bp2-signin .bp2-buttons1 .bp2-buttonskybluedefault {
+  background-color    : rgba(255,255,255,0.0);
+  top                 : 0px;
+  height              : 40px;
+  width               : 90px;
+  position            : relative;
+  margin              : 0;
+  left                : 0px;
+  -ms-transform       : rotate(0deg); /* IE 9 */
+  -webkit-transform   : rotate(0deg); /* Chrome, Safari, Opera */
+  transform           : rotate(0deg);
+}
+.bp2-tablet .bp2-login .bp2-signin .bp2-buttons1 .bp2-buttonskybluedefault .bp2-bg {
+  background-color    : rgba(68, 120, 165, 1.0);
+  top                 : 0px;
+  height              : 40px;
+  box-sizing          : border-box;
+  width               : 90px;
+  position            : absolute;
+  margin              : 0;
+  left                : 0px;
+  border-radius       : 6px;
+  border-style        : solid;
+  border-width        : 1px;
+  border-color        : rgba(28, 97, 139, 1.0);
+  -ms-transform       : rotate(0deg); /* IE 9 */
+  -webkit-transform   : rotate(0deg); /* Chrome, Safari, Opera */
+  transform           : rotate(0deg);
+}
+.bp2-tablet .bp2-login .bp2-signin .bp2-buttons1 .bp2-buttonskybluedefault .bp2-a12121212 {
+  background-color    : rgba(255,255,255,0.0);
+  top                 : 13px;
+  height              : auto;
+  width               : auto;
+  position            : absolute;
+  margin              : 0;
+  left                : 9px;
+  -ms-transform       : rotate(0deg); /* IE 9 */
+  -webkit-transform   : rotate(0deg); /* Chrome, Safari, Opera */
+  transform           : rotate(0deg);
+  font-family         : "Montserrat", Helvetica, Arial, serif;
+  font-weight         : 500;
+  font-style          : normal;
+  font-size           : 14.0px;
+  color               : rgba(235, 234, 234, 1.0);
+  text-align          : center;
+  line-height         : 21.0px;
+}
+.bp2-tablet .bp2-login1 {
+  background-color    : rgba(255,255,255,0.0);
+  top                 : 889px;
+  height              : 40px;
+  width               : 90px;
+  position            : absolute;
+  margin              : 0;
+  left                : 406px;
+  -ms-transform       : rotate(0deg); /* IE 9 */
+  -webkit-transform   : rotate(0deg); /* Chrome, Safari, Opera */
+  transform           : rotate(0deg);
+}
+.bp2-tablet .bp2-login1 .bp2-login2 {
+  background-color    : rgba(255,255,255,0.0);
+  top                 : 0px;
+  height              : 40px;
+  width               : 90px;
+  position            : relative;
+  margin              : 0;
+  left                : 0px;
+  -ms-transform       : rotate(0deg); /* IE 9 */
+  -webkit-transform   : rotate(0deg); /* Chrome, Safari, Opera */
+  transform           : rotate(0deg);
+}
+.bp2-tablet .bp2-login1 .bp2-login2 .bp2-signin {
+  background-color    : rgba(255,255,255,0.0);
+  top                 : 0px;
+  height              : 40px;
+  width               : 90px;
+  position            : relative;
+  margin              : 0;
+  left                : 0px;
+  -ms-transform       : rotate(0deg); /* IE 9 */
+  -webkit-transform   : rotate(0deg); /* Chrome, Safari, Opera */
+  transform           : rotate(0deg);
+}
+.bp2-tablet .bp2-login1 .bp2-login2 .bp2-signin .bp2-buttons1 {
+  background-color    : rgba(255,255,255,0.0);
+  top                 : 0px;
+  height              : 40px;
+  width               : 90px;
+  position            : relative;
+  margin              : 0;
+  left                : 0px;
+  -ms-transform       : rotate(0deg); /* IE 9 */
+  -webkit-transform   : rotate(0deg); /* Chrome, Safari, Opera */
+  transform           : rotate(0deg);
+}
+.bp2-tablet .bp2-login1 .bp2-login2 .bp2-signin .bp2-buttons1 .bp2-buttonskybluedefault {
+  background-color    : rgba(255,255,255,0.0);
+  top                 : 0px;
+  height              : 40px;
+  width               : 90px;
+  position            : relative;
+  margin              : 0;
+  left                : 0px;
+  -ms-transform       : rotate(0deg); /* IE 9 */
+  -webkit-transform   : rotate(0deg); /* Chrome, Safari, Opera */
+  transform           : rotate(0deg);
+}
+.bp2-tablet .bp2-login1 .bp2-login2 .bp2-signin .bp2-buttons1 .bp2-buttonskybluedefault .bp2-bg {
+  background-color    : rgba(68, 120, 165, 1.0);
+  top                 : 0px;
+  height              : 40px;
+  box-sizing          : border-box;
+  width               : 90px;
+  position            : absolute;
+  margin              : 0;
+  left                : 0px;
+  border-radius       : 6px;
+  border-style        : solid;
+  border-width        : 1px;
+  border-color        : rgba(28, 97, 139, 1.0);
+  -ms-transform       : rotate(0deg); /* IE 9 */
+  -webkit-transform   : rotate(0deg); /* Chrome, Safari, Opera */
+  transform           : rotate(0deg);
+}
+.bp2-tablet .bp2-login1 .bp2-login2 .bp2-signin .bp2-buttons1 .bp2-buttonskybluedefault .bp2-a12121212 {
+  background-color    : rgba(255,255,255,0.0);
+  top                 : 13px;
+  height              : auto;
+  width               : auto;
+  position            : absolute;
+  margin              : 0;
+  left                : 19px;
+  -ms-transform       : rotate(0deg); /* IE 9 */
+  -webkit-transform   : rotate(0deg); /* Chrome, Safari, Opera */
+  transform           : rotate(0deg);
+  font-family         : "Montserrat", Helvetica, Arial, serif;
+  font-weight         : 500;
+  font-style          : normal;
+  font-size           : 14.0px;
+  color               : rgba(235, 234, 234, 1.0);
+  text-align          : center;
+  line-height         : 21.0px;
+}
+.bp2-tablet .bp2-transparentbutton {
+  background-color    : rgba(255,255,255,0.0);
+  top                 : 755px;
+  height              : 40px;
+  width               : 120px;
+  position            : absolute;
+  margin              : 0;
+  left                : 326px;
+  -ms-transform       : rotate(0deg); /* IE 9 */
+  -webkit-transform   : rotate(0deg); /* Chrome, Safari, Opera */
+  transform           : rotate(0deg);
+}
+.bp2-tablet .bp2-transparentbutton .bp2-group {
+  background-color    : rgba(255,255,255,0.0);
+  top                 : 0px;
+  height              : 40px;
+  width               : 120px;
+  position            : relative;
+  margin              : 0;
+  left                : 0px;
+  -ms-transform       : rotate(0deg); /* IE 9 */
+  -webkit-transform   : rotate(0deg); /* Chrome, Safari, Opera */
+  transform           : rotate(0deg);
+}
+.bp2-tablet .bp2-transparentbutton .bp2-group .bp2-learnmore {
+  background-color    : rgba(255,255,255,0.0);
+  top                 : 0px;
+  height              : 40px;
+  width               : 120px;
+  position            : absolute;
+  margin              : 0;
+  left                : 0px;
+  -ms-transform       : rotate(0deg); /* IE 9 */
+  -webkit-transform   : rotate(0deg); /* Chrome, Safari, Opera */
+  transform           : rotate(0deg);
+}
+.bp2-tablet .bp2-transparentbutton .bp2-group .bp2-default {
+  background-color    : rgba(255,255,255,0.0);
+  top                 : 11px;
+  height              : auto;
+  width               : auto;
+  position            : absolute;
+  margin              : 0;
+  left                : 17px;
+  -ms-transform       : rotate(0deg); /* IE 9 */
+  -webkit-transform   : rotate(0deg); /* Chrome, Safari, Opera */
+  transform           : rotate(0deg);
+  font-family         : "Montserrat", Helvetica, Arial, serif;
+  font-weight         : 600;
+  font-style          : normal;
+  font-size           : 14.0px;
+  color               : rgba(215, 215, 215, 1.0);
+  text-align          : center;
+  line-height         : 18.0px;
+}
+.bp2-tablet .bp2-titles {
+  background-color    : rgba(255,255,255,0.0);
+  top                 : 598px;
+  height              : 133px;
+  width               : 406px;
+  position            : absolute;
+  margin              : 0;
+  left                : 182px;
+  -ms-transform       : rotate(0deg); /* IE 9 */
+  -webkit-transform   : rotate(0deg); /* Chrome, Safari, Opera */
+  transform           : rotate(0deg);
+}
+.bp2-tablet .bp2-titles .bp2-h4 {
+  background-color    : rgba(255,255,255,0.0);
+  top                 : 76px;
+  height              : 57px;
+  width               : 289px;
+  position            : absolute;
+  margin              : 0;
+  left                : 59px;
+  -ms-transform       : rotate(0deg); /* IE 9 */
+  -webkit-transform   : rotate(0deg); /* Chrome, Safari, Opera */
+  transform           : rotate(0deg);
+}
+.bp2-tablet .bp2-titles .bp2-h4 .bp2-keepingourpetsclo {
+  background-color    : rgba(255,255,255,0.0);
+  top                 : 0px;
+  height              : auto;
+  width               : 291px;
+  position            : absolute;
+  margin              : 0;
+  left                : -1px;
+  -ms-transform       : rotate(0deg); /* IE 9 */
+  -webkit-transform   : rotate(0deg); /* Chrome, Safari, Opera */
+  transform           : rotate(0deg);
+  font-family         : "Montserrat", Helvetica, Arial, serif;
+  font-weight         : 400;
+  font-style          : normal;
+  font-size           : 21.0px;
+  color               : rgba(130, 130, 130, 1.0);
+  text-align          : center;
+  line-height         : 25.0px;
+}
+.bp2-tablet .bp2-titles .bp2-h2 {
+  background-color    : rgba(255,255,255,0.0);
+  top                 : 0px;
+  height              : 67px;
+  width               : 406px;
+  position            : absolute;
+  margin              : 0;
+  left                : 0px;
+  -ms-transform       : rotate(0deg); /* IE 9 */
+  -webkit-transform   : rotate(0deg); /* Chrome, Safari, Opera */
+  transform           : rotate(0deg);
+}
+.bp2-tablet .bp2-titles .bp2-h2 .bp2-freeonlinepetmemo {
+  background-color    : rgba(255,255,255,0.0);
+  top                 : 0px;
+  height              : auto;
+  width               : 408px;
+  position            : absolute;
+  margin              : 0;
+  left                : -1px;
+  -ms-transform       : rotate(0deg); /* IE 9 */
+  -webkit-transform   : rotate(0deg); /* Chrome, Safari, Opera */
+  transform           : rotate(0deg);
+  font-family         : "Montserrat", Helvetica, Arial, serif;
+  font-weight         : 500;
+  font-style          : normal;
+  font-size           : 26.0px;
+  color               : rgba(236, 243, 244, 1.0);
+  text-align          : center;
+  line-height         : 32.0px;
+}
+.bp2-tablet .bp2-rectangle3 {
+  background-color    : rgba(255, 255, 255, 1.0);
+  top                 : 0px;
+  height              : 100px;
+  width               : 321px;
+  position            : absolute;
+  margin              : 0;
+  left                : -420px;
+  -ms-transform       : rotate(0deg); /* IE 9 */
+  -webkit-transform   : rotate(0deg); /* Chrome, Safari, Opera */
+  transform           : rotate(0deg);
+}
+.bp2-tablet .bp2-navigation {
+  background-color    : rgba(255,255,255,0.0);
+  top                 : 128px;
+  height              : 40px;
+  width               : 767px;
+  position            : absolute;
+  margin              : 0;
+  left                : 1px;
+  -ms-transform       : rotate(0deg); /* IE 9 */
+  -webkit-transform   : rotate(0deg); /* Chrome, Safari, Opera */
+  transform           : rotate(0deg);
+}
+.bp2-tablet .bp2-navigation .bp2-rectangle4 {
+  background-color    : rgba(204, 228, 230, 1.0);
+  top                 : 0px;
+  height              : 40px;
+  width               : 767px;
+  position            : relative;
+  margin              : 0;
+  left                : 0px;
+  -ms-transform       : rotate(0deg); /* IE 9 */
+  -webkit-transform   : rotate(0deg); /* Chrome, Safari, Opera */
+  transform           : rotate(0deg);
+}
+/* .anima-animate-appear prefix for appear animations */
+.anima-animate-appear {
+  opacity             : 0;
+  display             : block;
+  -webkit-animation   : anima-reveal 0.3s ease-in-out 1 normal forwards;
+  -moz-animation      : anima-reveal 0.3s ease-in 1 normal forwards;
+  -o-animation        : anima-reveal 0.3s ease-in-out 1 normal forwards;
+  animation           : anima-reveal 0.3s ease-in-out 1 normal forwards;
+}
+.anima-animate-disappear {
+  opacity             : 1;
+  display             : block;
+  -webkit-animation   : anima-reveal 0.3s ease-in-out 1 reverse forwards;
+  -moz-animation      : anima-reveal 0.3s ease-in 1 normal forwards;
+  -o-animation        : anima-reveal 0.3s ease-in-out 1 reverse forwards;
+  animation           : anima-reveal 0.3s ease-in-out 1 reverse forwards;
+}
+.anima-animate-nodelay {
+  -webkit-animation-delay: 0;
+  -moz-animation-delay: 0;
+  -o-animation-delay  : 0;
+  animation-delay     : 0;
+}
+@-webkit-keyframes anima-reveal {
+  0%
+
+  {
+      opacity: 0;
+    }
+
+
+  100%
+
+  {
+      opacity: 1;
+    }
+}
+@-moz-keyframes anima-reveal {
+  0%
+
+  {
+      opacity: 0;
+    }
+
+
+  100%
+
+  {
+      opacity: 1;
+    }
+}
+@-o-keyframes anima-reveal {
+  0%
+
+  {
+      opacity: 0;
+    }
+
+
+  100%
+
+  {
+      opacity: 1;
+    }
+}
+@keyframes anima-reveal {
+  0%
+
+  {
+      opacity: 0;
+    }
+
+
+  100%
+
+  {
+      opacity: 1;
+    }
+}
+@media screen and (max-width: 767px) {
+  .bp1-home {
+    display             : block;
+  }
+  .bp2-tablet {
+    display             : none;
+  }
+}
+@media screen and (min-width: 768px) {
+  .bp1-home {
+    display             : none;
+  }
+  .bp2-tablet {
+    display             : block;
+  }
+}
