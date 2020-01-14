@@ -25,6 +25,7 @@ div {
 .anima-full-height-a {
   height              : 100%;
 }
+
 div {
   -webkit-text-size-adjust: none;
 }
@@ -1199,6 +1200,7 @@ div {
   -o-animation-delay  : 0;
   animation-delay     : 0;
 }
+
 @-webkit-keyframes anima-reveal {
   0%
 
